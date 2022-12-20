@@ -11,9 +11,10 @@ namespace LogicalProgram
         static void Main(string[] args)
         {
             // Fibonacciseries.DisplayFibonacciSeries();
-            // PerfectNumbers.PerfectNum();
-               PrimeNumber.PrimeNum();
-               Console.ReadLine();
+            // PerfectNumbers.PerfectNum();   
+            //  PrimeNumber.PrimeNum();
+                ReverseNumbers.DisplayReverseNum();
+                 Console.ReadLine();
         }
     }
 }
