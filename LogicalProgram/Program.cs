@@ -13,7 +13,8 @@ namespace LogicalProgram
             // Fibonacciseries.DisplayFibonacciSeries();
             // PerfectNumbers.PerfectNum();   
             //  PrimeNumber.PrimeNum();
-                ReverseNumbers.DisplayReverseNum();
+                Couponnumber.displayCoupnNum();
+               // ReverseNumbers.DisplayReverseNum();
                  Console.ReadLine();
         }
     }
