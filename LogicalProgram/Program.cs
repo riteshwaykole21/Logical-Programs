@@ -10,8 +10,9 @@ namespace LogicalProgram
     {
         static void Main(string[] args)
         {
-            Fibonacciseries.DisplayFibonacciSeries(); 
-            Console.ReadLine();
+              // Fibonacciseries.DisplayFibonacciSeries();
+               PerfectNumbers.PerfectNum();
+               Console.ReadLine();
         }
     }
 }
